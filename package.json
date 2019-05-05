@@ -3,9 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "p5": "^0.8.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.0"
+    "react-p5-wrapper": "0.0.4",
+    "react-scripts": "3.0.0",
+    "synaptic": "^1.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
